@@ -1,4 +1,4 @@
-# A simple and powerful router based on the modern API for client-side routing
-Let’s explore the newest API for straightforward development of single-page applications
+# import.meta.resolve() — a novel fancy feature of JavaScript modules
+Using import maps for loading HTML templates into JavaScript modules
 
-Sample code for my post https://marian-caikovski.medium.com/a-simple-and-powerful-router-based-on-the-modern-api-for-client-side-routing-b40e9f6eb5bd exploring modern client-side routing
+Sample code for my post https://marian-caikovski.medium.com/using-import-maps-for-loading-html-templates-into-javascript-modules-4ca4a6f11663 about importing HTML templates into JavaScript modules
